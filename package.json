@@ -1,4 +1,4 @@
-{ "name": "helo-world"
+{ "name": "hello-world"
 , "version": "0.0.1"
 , "description": "My first teleport app."
 , "dependencies": { "mustache": ">=0.3.0" }
